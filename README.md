@@ -1,8 +1,6 @@
 - 👋 Hi!, My name is Uzoma Vera Udenkwor. I'm currently enrolled in MSc Computing at Cardiff University.
-- 👀 I'm interested in using languages including Python, Java, JS, HTML & CSS to build applications for enterprise solutions. 
-- I am looking for a Graduate Software development Role where i can utilize my knowledge and skills of Programming while also learning new languages, 
-tools and their applications.
-- 🌱 I'm currently learning Java and developing knowledge of Object Oriented Programming in real-life applications.
+- 👀 I write code in Python, JS, HTML & CSS to build applications for web solutions. 
+- Looking for a Software development Role. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
